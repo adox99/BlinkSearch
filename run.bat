@@ -1,0 +1,2 @@
+py blinker.py
+pause
